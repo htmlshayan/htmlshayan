@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/32542752/README.md)
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="SHAYAN — automation bots engineer" />
+<img src="./assets/hero.svg" width="100%" alt="SHAYAN — automation engineer" />
 
 <img src="./assets/about.svg" width="100%" alt="profile.py" />
 
