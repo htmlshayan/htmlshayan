@@ -1,16 +1,26 @@
-## Hi there 👋
+[README.md](https://github.com/user-attachments/files/32542752/README.md)
+<div align="center">
 
-<!--
-**htmlshayan/htmlshayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/hero.svg" width="100%" alt="SHAYAN — automation bots engineer" />
 
-Here are some ideas to get you started:
+<img src="./assets/about.svg" width="100%" alt="profile.py" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./assets/stack.svg" width="100%" alt="stack" />
+
+<img src="./assets/fleet.svg" width="100%" alt="bot fleet" />
+
+<sub><code>open unit →</code> <a href="https://github.com/htmlshayan"><code>x-bot</code></a> <a href="https://github.com/htmlshayan"><code>ig-bot</code></a> <a href="https://github.com/htmlshayan"><code>spotify-bot</code></a></sub>
+
+<br/><br/>
+
+<img src="./assets/log.svg" width="100%" alt="live bot log" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/htmlshayan/"><img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
+<a href="https://t.me/gotanx"><img src="./assets/btn-telegram.svg" height="46" alt="Telegram" /></a>
+<a href="mailto:shayanmansoor596@gmail.com"><img src="./assets/btn-email.svg" height="46" alt="Email" /></a>
+
+<img src="./assets/footer.svg" width="100%" alt="EOF" />
+
+</div>
